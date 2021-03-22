@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 Techs that I've used at least once   
 https://img.shields.io/badge/HTML5-11B48A?style=flat-square&logo=HTML5&logoColor=white  
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=%20&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer&text=%20&fontSize=90)
