@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **nuej0416/nuej0416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jeongeun%20Kim&fontSize=90&fontAlignY=35)
+### 👋Hi there👋   
+🌱I'm Jeongeun Kim, growing as a front-end developer.   
+:raised_hands:I have no fear of new things and I constantly challenge myself.   
+ 
+:computer:Tech Stack:computer:   
+Techs that I've used at least once   
+https://img.shields.io/badge/HTML5-11B48A?style=flat-square&logo=HTML5&logoColor=white  
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=%20&fontSize=90)
