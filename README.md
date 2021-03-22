@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jeongeun%20Kim&fontSize=90&fontAlignY=35)
-### 👋Hi there👋   
-🌱I'm Jeongeun Kim, growing as a front-end developer.   
-:raised_hands:I have no fear of new things and I constantly challenge myself.   
+<h1 align="center"> 👋Hi there👋 </h1>  
+<p align="center">🌱I'm Jeongeun Kim, growing as a front-end developer.</p>
+<p align="center">:raised_hands:I have no fear of new things and I constantly challenge myself.   </p>
  
-:computer:Tech Stack:computer:   
-Techs that I've used at least once   
-https://img.shields.io/badge/HTML5-11B48A?style=flat-square&logo=HTML5&logoColor=white  
+<p align="center">:computer:Tech Stack:computer:   </p>
+<p align="center">Techs that I've used at least once   </p>
+<p align="center">https://img.shields.io/badge/HTML5-11B48A?style=flat-square&logo=HTML5&logoColor=white  </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=%20&fontSize=90)
